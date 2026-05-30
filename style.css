@@ -7,3 +7,6 @@
 table thead{
     background-color: orange;
 }
+tr:nth-child(even){
+    background-color: grey;
+}
